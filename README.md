@@ -34,7 +34,7 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/company-stock-dashboard.git
+   git clone https://github.com/hjain2003/Data-Visualization-Chart.js.git
    cd company-stock-dashboard
    
 2. **Install backend dependencies:**
